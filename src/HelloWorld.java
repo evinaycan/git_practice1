@@ -2,7 +2,10 @@ public class HelloWorld {
 
     // Doing some work here (you can type anything you want)
 
-    // Doing some work 2!
+    // Doing awesome work 2!
 
+    // Doing awesome work 3!
+    // Doing awesome work 3 is done and ready to be completed
+    // and ready to be pushed to remote repository
 
 }
